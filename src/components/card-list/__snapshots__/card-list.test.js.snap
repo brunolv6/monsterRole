@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing the render of cart-list 1`] = `
+<div
+  className="grid"
+>
+  <Card
+    id={1}
+    key="1"
+    name="Jose"
+  />
+</div>
+`;
